@@ -1,0 +1,65 @@
+﻿
+//[Route("[controller]")]
+    //public class RatesController : ControllerBase
+    //{
+
+    //    [HttpPost("upload")]
+    //    public void UploadFileAsync(IFormFile file)
+    //    {
+
+    //        if (file != null && file.Length > 0)
+    //        {
+    //            CSV_Service cSV_Service = new CSV_Service();
+    //            cSV_Service.Read_Rates(file);
+    //        }
+
+    //    }
+    //}
+    //[Route("[controller]")]
+    //public class PlansController : ControllerBase
+    //{
+
+    //    [HttpPost("upload")]
+    //    public void UploadFileAsync(IFormFile file)
+    //    {
+
+    //        if (file != null && file.Length > 0)
+    //        {
+    //            CSV_Service cSV_Service = new CSV_Service();
+    //            cSV_Service.Read_Plans(file);
+    //        }
+
+    //    }
+    //}
+    //[Route("[controller]")]
+    //public class CompaniesController : ControllerBase
+    //{
+
+    //    [HttpPost("upload")]
+    //    public void UploadFileAsync(IFormFile file)
+    //    {
+
+    //        if (file != null && file.Length > 0)
+    //        {
+    //            CSV_Service cSV_Service = new CSV_Service();
+    //            cSV_Service.Upload_Companies(file);
+    //        }
+
+    //    }
+    //}
+    //[Route("[controller]")]
+    //public class UserController : ControllerBase
+    //{
+
+    //    [HttpPost("upload")]
+    //    public void UploadFileAsync(IFormFile file)
+    //    {
+
+    //        if (file != null && file.Length > 0)
+    //        {
+    //            CSV_Service cSV_Service = new CSV_Service();
+    //            cSV_Service.Upload_Users(file);
+    //        }
+
+    //    }
+    //}
